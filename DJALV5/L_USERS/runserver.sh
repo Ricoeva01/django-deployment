@@ -1,0 +1,1 @@
+/Users/ricardoponce/Documents/DJALV5/venv/bin/python /Users/ricardoponce/Documents/DJALV5/L_USERS/manage.py runserver
